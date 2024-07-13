@@ -1,17 +1,12 @@
-# C++语言
+# 数学
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<img src="https://img0.baidu.com/it/u=2750461412,2513208701&fm=253&fmt=auto&app=138&f=JPEG?w=600&h=400">
 
-## 梦开始的地方
+别用英语报纸当数学错题本
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
 
-## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+
+
+
+

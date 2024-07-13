@@ -3,15 +3,18 @@ nav:
   - 个人首页: "index.md"
   - 还没想好: "about.md"
   - '日记':
-    - 数学: "数学/math.md"
-    - 微积分: "数学/caculus.md"
+    - 日记: "日记/math.md"
+    - "2024年": 
+      - 2024年7月13日: "日记/2024年/2024年7月13日.md"
   - '学习科目':
     - "语文":
       - Chinese: "courses/chinese/c.md"
     - "数学":
-      - Math: "courses/math/.md"
+      - Math: "courses/math/c.md"
+    - "英语":
+      - English: "courses/english/c.md"
   - '我的兴趣':
-    - 总述: "数据结构/dsa.md"
+    - 我的兴趣: "个人兴趣/dsa.md"
 
 
 
