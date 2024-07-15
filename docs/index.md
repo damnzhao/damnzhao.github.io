@@ -2,7 +2,7 @@
 
 牢大！！！
 
-<img src="http://www.rdfzbda.cn/images/img2.jpg">
+<img src="../img/1.jpg">
 
 Currently studying in [北京人大附中经开学校](http://www.rdfzbda.cn/index.php?m=Page&a=index&id=1).
 
